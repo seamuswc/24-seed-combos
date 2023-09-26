@@ -12,3 +12,5 @@ Orientations: Each seed phrase (either A or B) can be in its original form or re
 2 possibilities for A (original or reversed) <br />
 
 2 possibilities for B (original or reversed) <br />
+
+This means 8 total. 
